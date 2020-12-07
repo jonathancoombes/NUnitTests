@@ -43,7 +43,7 @@ namespace Converters
                 throw new ArgumentNullException(e.Message);
                
             }
-             return false;
+             
         }
     }
 }

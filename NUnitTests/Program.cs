@@ -11,13 +11,6 @@ namespace NUnitTests
 
         public static void Main(string[] args){
 
-            //Running Console Application
-
-            //Program newProg = new Program();
-            //newProg.RunTransaction();
-
-            // Running Tests
-
             BankingTransactionTest newTest= new BankingTransactionTest();
         }
 
